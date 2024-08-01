@@ -1,1 +1,1 @@
-# DS5220-Project
+# Heart Disease Prediction
